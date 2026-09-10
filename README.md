@@ -1,6 +1,6 @@
 # PacMan Prototype
 
-A Pac-Man clone written in C, rendered entirely in the console using ANSI escape codes. Old university/personal project, uploaded here years after it was written.
+A Pac-Man clone written in C, rendered entirely in the console using ANSI escape codes. Old personal project, uploaded here years after it was written.
 
 ## How it works
 
