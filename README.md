@@ -27,3 +27,9 @@ Open `PacMan.cbp` in [Code::Blocks](https://www.codeblocks.org/) and build/run (
 ## Status
 
 This was a prototype/learning project, not actively maintained. It compiles and runs, but expect rough edges - some in-progress debug output is still visible during play in a few states.
+
+
+## Screenshots
+<img width="669" height="607" alt="image" src="https://github.com/user-attachments/assets/5666d9f0-f397-4662-a4a3-1d38bf85ea49" />
+
+<img width="550" height="688" alt="image" src="https://github.com/user-attachments/assets/985148ee-7ea3-4bc5-a842-d1ab2e55a1ed" />
