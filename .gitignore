@@ -1,0 +1,10 @@
+# Build output
+bin/
+obj/
+*.o
+*.exe
+*.out
+
+# Code::Blocks local/IDE cache (not needed to build)
+*.depend
+*.layout
